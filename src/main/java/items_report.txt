@@ -1,0 +1,9 @@
+Items sold:item2 : 2409
+item1 : 2311
+item7 : 2464
+item4 : 2387
+item3 : 2342
+item6 : 2294
+item5 : 2425
+Most Puchased item : item7 : 2464
+Least Puchased item : item6 : 2294
